@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Chirag Keswani
 
-### 🚀 BCA Student • Aspiring SaaS Founder • Full Stack Developer
+### 🚀 BCA Student • Full Stack Developer
 
 <p>
 Building products, learning every day, and turning ideas into reality.
@@ -93,17 +93,6 @@ Goal:
 ---
 
 # 🚀 Featured Projects
-
-### 🔗 Dead Link Checker
-
-Website crawler that detects:
-
-- Broken links
-- Broken images
-- Redirect chains
-- Missing ALT tags
-
----
 
 ### 🎓 Smart Attendance System
 
