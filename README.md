@@ -1,174 +1,131 @@
-<div align="center">
+# 👋 Hi, I'm Chirag Keswani
 
-# Hi 👋, I'm Chirag Keswani
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Chirag%20Keswani&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20SaaS%20Founder%20•%20Full%20Stack%20Developer&descAlignY=58"/>`{=html}
 
-### 🚀 BCA Student • Full Stack Developer
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+SaaS+Products;Learning+Data+Science;Full+Stack+Developer;Always+Building+🚀"/>`{=html}
 
-<p>
-Building products, learning every day, and turning ideas into reality.
-</p>
+`<img src="https://komarev.com/ghpvc/?username=chiragkeswani&label=Visitors&style=for-the-badge&color=58A6FF"/>`{=html}
+:::
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=chiragkeswani&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p>
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/chiragkeswani">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
-</div>
-
----
+------------------------------------------------------------------------
 
 # 💫 About Me
 
-```yaml
+``` yaml
 Name: Chirag Keswani
-
-Education:
-  Degree: Bachelor of Computer Applications (BCA)
+Role: BCA Student • Aspiring SaaS Founder
+Location: India
 
 Currently Learning:
   - Data Science
   - Full Stack Development
   - System Design
 
-Interests:
-  - SaaS
-  - Startups
-  - Product Development
-  - Open Source
+Building:
+  - Dead Link Checker SaaS
 
-Goal:
-  Build a global software company.
+Goals:
+  - Build a global software company
 ```
 
----
+------------------------------------------------------------------------
 
 # 🛠 Tech Stack
 
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
-
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,fastapi,flask,mysql,sqlite,firebase,docker,git,github,vscode,postman&perline=10"/>`{=html}
+```{=html}
 </p>
+```
 
-### Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" />
-
-</p>
-
-### Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,mongodb" />
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
-
-</p>
-
----
+------------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
-### 🎓 Smart Attendance System
+## 🔗 Dead Link Checker
 
-AI-powered attendance using face recognition.
+Website crawler that detects broken links, images, redirect chains and
+SEO issues.
 
-Tech:
+## 🎓 Smart Attendance System
 
-- Python
-- OpenCV
-- SQLite
-- Streamlit
+Face-recognition attendance system built with Python and OpenCV.
 
----
+## 📚 Course Management System
 
-### 📚 Course Management System
+Role-based CMS built with FastAPI and SQLite.
 
-Role-based portal built using:
-
-- Python
-- FastAPI
-- SQLite
-
----
+------------------------------------------------------------------------
 
 # 📊 GitHub Stats
 
+```{=html}
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chiragkeswani&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=chiragkeswani&theme=github-dark-blue&hide_border=true"/>
-
+```
+`<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chiragkeswani&show_icons=true&theme=github_dark&hide_border=true"/>`{=html}
+`<img width="48%" src="https://streak-stats.demolab.com?user=chiragkeswani&theme=github-dark-blue&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragkeswani&layout=compact&theme=github_dark&hide_border=true"/>
-
+```
+`<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragkeswani&layout=compact&theme=github_dark&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragkeswani&theme=github-dark&hide_border=true"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragkeswani&theme=github-dark&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🏆 GitHub Trophies
 
+```{=html}
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chiragkeswani&theme=algolia&no-frame=true&row=1&column=6"/>
-
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=chiragkeswani&theme=algolia&no-frame=true&row=1&column=6"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 📫 Connect With Me
+# 🐍 Contribution Snake
 
-- LinkedIn → https://linkedin.com/in/YOUR_USERNAME
+Replace with your generated snake after enabling GitHub Actions:
 
-- Email → your@email.com
+``` md
+![Snake](https://raw.githubusercontent.com/chiragkeswani/chiragkeswani/output/github-contribution-grid-snake-dark.svg)
+```
 
-- Portfolio → https://yourportfolio.com
+------------------------------------------------------------------------
 
----
+# 🌐 Connect
 
-<div align="center">
+-   LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+-   Portfolio: https://YOUR_PORTFOLIO
+-   Email: YOUR_EMAIL
 
+------------------------------------------------------------------------
+
+::: {align="center"}
 ### ⭐ Thanks for visiting!
 
-"If you can imagine it, you can build it."
+**Building products. Solving problems. Learning every day.**
 
-</div>
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>`{=html}
+:::
