@@ -80,13 +80,13 @@ Fun Fact:   I enjoy turning ideas into code
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chiragkeswani&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=B388FF&text_color=e6edf3&border_color=2F81F7" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragkeswani&hide_border=true&background=0d1117&stroke=2F81F7&ring=B388FF&fire=FF6FA3&currStreakLabel=58A6FF&sideNums=e6edf3&sideLabels=e6edf3&dates=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=chiragkeswani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FFB86B&icon_color=5CE1E6&text_color=f0f6fc&border_color=FFB86B" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragkeswani&hide_border=true&background=0d1117&stroke=FFB86B&ring=5CE1E6&fire=FF6B6B&currStreakLabel=5CE1E6&sideNums=f0f6fc&sideLabels=f0f6fc&dates=8b949e" width="49%" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragkeswani&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=e6edf3&border_color=2F81F7" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragkeswani&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFB86B&text_color=f0f6fc&border_color=FFB86B" width="49%" />
 </div>
 
 <br>
