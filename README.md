@@ -55,20 +55,6 @@
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiragkeswani/chiragkeswani/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiragkeswani/chiragkeswani/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chiragkeswani/chiragkeswani/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br>
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -90,18 +76,3 @@
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chiragkeswani&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=chiragkeswani&color=2F81F7&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59F6,100:2F81F7&height=100&section=footer" width="100%"/>
-
-</div>
