@@ -128,7 +128,7 @@ Role-based CMS built using:
 # 🌐 Connect With Me
 
 - LinkedIn → https://linkedin.com/in/chirag-keswani
-- Portfolio → [https://YOUR_PORTFOLIO](https://chiragkeswani.netlify.app)
+- Portfolio → [https://chiragkeswani.netlify.app]
 - Email → chiragkeswani2005@gmail.com
 
 ---
