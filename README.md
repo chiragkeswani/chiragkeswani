@@ -33,8 +33,7 @@ I'm **Chirag Keswani**, a BCA student and aspiring SaaS founder interested in bu
 - 📊 Data Science
 - 🌐 Full Stack Development
 - 🏗️ System Design
-- ☁️ Cloud & DevOps
-- 🤖 AI & Machine Learning
+
 
 ---
 
@@ -49,13 +48,13 @@ I'm **Chirag Keswani**, a BCA student and aspiring SaaS founder interested in bu
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react=5"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs=5"/>
 </p>
 
 ### 🗄️ Database
