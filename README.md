@@ -28,12 +28,13 @@ I'm **Chirag Keswani**, a BCA student and aspiring SaaS founder interested in bu
 - 🚀 Interested in building SaaS products
 - 📍 India
 
-### Currently Learning
+### 🧠 Currently Learning
 
 - 📊 Data Science
 - 🌐 Full Stack Development
 - 🏗️ System Design
-
+- ☁️ Cloud & DevOps
+- 🤖 AI & Machine Learning
 
 ---
 
@@ -48,13 +49,13 @@ I'm **Chirag Keswani**, a BCA student and aspiring SaaS founder interested in bu
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react=5"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=5"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs=5"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs&perline=5"/>
 </p>
 
 ### 🗄️ Database
@@ -77,7 +78,7 @@ I'm **Chirag Keswani**, a BCA student and aspiring SaaS founder interested in bu
 
 An AI-powered attendance management system using face recognition.
 
-### Features
+### ✨ Features
 
 - 👤 Face Recognition
 - 📋 Automated Attendance
@@ -85,7 +86,7 @@ An AI-powered attendance management system using face recognition.
 - 📊 Attendance Records
 - 🔐 User Authentication
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 `Python` `OpenCV` `SQLite` `Streamlit` `Pandas`
 
@@ -93,9 +94,9 @@ An AI-powered attendance management system using face recognition.
 
 ## 📚 Course Management System
 
-A role-based course management system designed to manage courses, students, and related academic information.
+A role-based course management system designed to manage courses, students, and academic information.
 
-### Features
+### ✨ Features
 
 - 👨‍🎓 Student Management
 - 📚 Course Management
@@ -103,7 +104,7 @@ A role-based course management system designed to manage courses, students, and 
 - 🗄️ Database Integration
 - ⚙️ Backend API
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 `Python` `FastAPI` `SQLite`
 
@@ -113,7 +114,7 @@ A role-based course management system designed to manage courses, students, and 
 
 A data analytics project focused on transforming financial data into structured analytics and business insights.
 
-### Work Involved
+### ✨ Work Involved
 
 - 📥 Data Preparation
 - 🧹 Data Cleaning
@@ -122,7 +123,7 @@ A data analytics project focused on transforming financial data into structured 
 - 🔌 API Integration
 - 📈 Business Reporting
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 `Python` `PySpark` `Databricks` `SQL` `Data Analytics`
 
@@ -132,14 +133,14 @@ A data analytics project focused on transforming financial data into structured 
 
 A prototype concept for analyzing interview responses using multiple signals.
 
-### Planned Capabilities
+### 💡 Planned Capabilities
 
 - 🎤 Audio Analysis
 - 👁️ Facial Analysis
 - 📝 NLP Analysis
 - 📊 Interview Analytics
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 `Python` `FastAPI` `OpenCV` `Librosa` `NLP` `React`
 
@@ -149,7 +150,8 @@ A prototype concept for analyzing interview responses using multiple signals.
 
 # 💼 Experience
 
-### Technology & Security Intern
+## Technology & Security Intern
+
 **Netcamp Solutions Pvt. Ltd.**
 
 Worked on:
@@ -168,13 +170,13 @@ Worked on:
 
 ```text
 Software Development
-       ↓
+        ↓
    Full Stack
-       ↓
+        ↓
        AI
-       ↓
+        ↓
  Data & Analytics
-       ↓
+        ↓
   SaaS Products
-       ↓
+        ↓
  Entrepreneurship
